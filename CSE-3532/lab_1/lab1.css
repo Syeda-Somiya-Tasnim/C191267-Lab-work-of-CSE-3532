@@ -1,0 +1,24 @@
+ table {
+            width: 100%;
+        }
+.insidethebox {
+            border: black;
+            border-width: 1;
+            border-style: dotted;
+        }
+
+.contact {
+            text-decoration: none;
+        }
+.menu-container {
+            width: 30%;
+            margin: 0;
+            height: 100px;
+            text-align: left;
+            text-size-adjust: 50;
+        }
+
+ #contactId {
+            color: white;
+        }
+    
